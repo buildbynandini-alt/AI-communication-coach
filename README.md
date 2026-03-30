@@ -15,8 +15,13 @@ The AI Communication Coach is designed to solve this problem by using artificial
 
 # Methodology
 User Input: User gives speech or text.
+
 Speech Conversion: Voice is converted into text (if needed).
+
 Processing: Text is cleaned and prepared.
+
 AI Analysis: System checks grammar, sentence structure, and clarity.
+
 Feedback: Suggestions are given to improve communication.
+
 Practice & Tracking: User practices and tracks improvement over time.
